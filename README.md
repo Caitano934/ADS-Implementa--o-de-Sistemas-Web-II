@@ -4,7 +4,7 @@
 
 **Polo:** Sobradinho — BA
 
-**Repositório:** (https://github.com/Caitano934/ADS-Implementa--o-de-Sistemas-Web-II)
+**Repositório:** (https://github.com/Caitano934/ADS-Implementacao-de-Sistemas-Web-II)
 
 
 ## 🚀 Deploy do Projeto
