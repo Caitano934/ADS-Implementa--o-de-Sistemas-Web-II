@@ -15,7 +15,7 @@ Acesse a aplicação aqui: **<a href="https://adsunivasfsistemabiblioteca.infini
 **
 
 
-Vídeo de demonstração: **<a href="https://youtu.be/vZ1YGsZklJY?is=-snCcpDdv7GvPhBZ" rel="noopener noreferrer">🔗 Vídeo de Demonstração do Sistema</a>
+Vídeo de demonstração: **<a href="https://youtu.be/t_T53i_APwI?si=60XHhkiY-c0jveaq" rel="noopener noreferrer">🔗 Vídeo de Demonstração do Sistema</a>
 **
 
 ## Como rodar
