@@ -11,7 +11,9 @@
 
 O sistema de biblioteca foi hospedado e está disponível para testes online. 
 
-Acesse a aplicação aqui: **<a href="https://adsunivasfsistemabiblioteca.infinityfree.io/" target="_blank" rel="noopener noreferrer">🔗 Visualizar Sistema de Biblioteca</a>
+Acesse a aplicação aqui: **<a href="https://adsunivasfsistemabiblioteca.infinityfree.io/" rel="noopener noreferrer">🔗 Visualizar Sistema de Biblioteca</a>
+**
+Acesse o vídeo de demonstração aqui: **<a href="https://youtu.be/vZ1YGsZklJY?is=-snCcpDdv7GvPhBZ" rel="noopener noreferrer">🔗 Vídeo de Demonstração do Sistema</a>
 **
 
 ## Como rodar
